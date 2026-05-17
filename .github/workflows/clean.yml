@@ -2,8 +2,8 @@ name: Merge VLESS from working folder
 
 on:
   schedule:
-    - cron: '*/5 * * * *'        # Каждые 5 минут
-  workflow_dispatch:              # Ручной запуск
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   merge:
@@ -20,28 +20,27 @@ jobs:
           # Проходим по всем файлам в папке working
           for file in working/*.txt; do
             if [ -f "$file" ]; then
-              echo "Обрабатываю: $file"
-              # Извлекаем строки, начинающиеся с vless://
               grep '^vless://' "$file" >> all_vless.txt || true
             fi
           done
           
-          # Оставляем только уникальные vless:// строки
+          # Сортируем и убираем дубликаты
           sort -u all_vless.txt | grep -v '^$' > merged_vless.txt
           
-          # Добавляем временную метку (чтобы был виден факт обновления)
-          echo "" >> merged_vless.txt
-          echo "# Last merged: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> merged_vless.txt
-          
-          # Считаем количество уникальных серверов
+          # Добавляем ВСЕГДА новую временную метку в начало файла
           COUNT=$(grep -c '^vless://' merged_vless.txt)
-          echo "COUNT=$COUNT" >> $GITHUB_ENV
-          echo "✅ Всего уникальных VLESS серверов в merged_vless.txt: $COUNT"
+          echo "# VLESS servers merged: $(date +'%Y-%m-%d %H:%M:%S UTC')" > merged_vless_tmp.txt
+          echo "# Total unique servers: $COUNT" >> merged_vless_tmp.txt
+          echo "" >> merged_vless_tmp.txt
+          cat merged_vless.txt >> merged_vless_tmp.txt
+          mv merged_vless_tmp.txt merged_vless.txt
+          
+          echo "✅ Всего уникальных VLESS серверов: $COUNT"
 
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add merged_vless.txt
-          git diff --staged --quiet || git commit -m "Обновление merged_vless.txt (${{ env.COUNT }} серверов) [$(date +'%Y-%m-%d %H:%M:%S')]"
+          git commit -m "Auto-merge VLESS [$(date +'%Y-%m-%d %H:%M:%S')]" || echo "No changes, but forcing commit"
           git push
