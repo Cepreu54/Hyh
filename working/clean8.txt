@@ -1,1 +1,2 @@
-vless://b54d36d1-43c3-4b8f-a5f8-cf6504db0562@144.31.233.236:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=MbYR2O0XBSeG74gGYpFIofXsILcf5lG2gc36GyURBXQ&sid=0199436dd359351b&sni=apple.com#[OpenRay] 🇳🇱 NL-6940
+# Нет рабочих серверов с пингом <= 2000 мс
+# 2026-05-18 06:44:50.696344
