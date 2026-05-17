@@ -1,32 +1,45 @@
-name: Clean VLess Servers
+name: Merge VLESS Subscriptions
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *'      # Каждый час
+  workflow_dispatch:          # Можно запустить вручную
 
 jobs:
-  clean:
+  merge:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Download and filter servers (only countries with good ping from St. Petersburg)
+      - name: Merge all sources
         run: |
-          curl -s "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt" | \
-          grep -v '%F0%9F%87%B7%F0%9F%87%BA' | \
-          grep -E '%F0%9F%87%AB%F0%9F%87%AE|%F0%9F%87%B1%F0%9F%87%BB|%F0%9F%87%B1%F0%9F%87%B9|%F0%9F%87%B5%F0%9F%87%B1|%F0%9F%87%A9%F0%9F%87%AA|%F0%9F%87%B8%F0%9F%87%AA|%F0%9F%87%B3%F0%9F%87%B1|%F0%9F%87%A6%F0%9F%87%B9' > clean.txt
-
-      - name: Count servers
-        run: |
-          count=$(wc -l < clean.txt)
-          echo "✅ Оставлено серверов из ближней Европы: $count"
+          > merged.txt
+          
+          # 11 файлов из Davai
+          for i in {1..11}; do
+            curl -s "https://raw.githubusercontent.com/Cepreu54/Davai/main/clean${i}.txt" >> merged.txt
+          done
+          
+          # 3 дополнительных файла
+          curl -s "https://raw.githubusercontent.com/Cepreu54/vless-clean/refs/heads/main/clean.txt" >> merged.txt
+          curl -s "https://raw.githubusercontent.com/Cepreu54/vless-clean-2/refs/heads/main/clean.txt" >> merged.txt
+          curl -s "https://raw.githubusercontent.com/Cepreu54/vless-clean-3/refs/heads/main/clean.txt" >> merged.txt
+          
+          # Убираем пустые строки и дубликаты
+          grep -v '^$' merged.txt | sort -u > merged_clean.txt
+          
+          # Считаем количество
+          COUNT=$(wc -l < merged_clean.txt)
+          echo "Всего серверов в объединённой подписке: $COUNT"
+          
+          # Перемещаем финальный файл
+          mv merged_clean.txt merged.txt
 
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add clean.txt
-          git diff --staged --quiet || git commit -m "Auto-update clean servers $(date +'%Y-%m-%d %H:%M:%S')"
+          git add merged.txt
+          git diff --staged --quiet || git commit -m "Auto-merge $(date +'%Y-%m-%d %H:%M:%S')"
           git push
