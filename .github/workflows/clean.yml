@@ -1,9 +1,9 @@
-name: Merge VLESS Subscriptions
+name: Merge VLESS from all sources
 
 on:
   schedule:
-    - cron: '0 * * * *'      # Каждый час
-  workflow_dispatch:          # Можно запустить вручную
+    - cron: '*/5 * * * *'        # Каждые 5 минут
+  workflow_dispatch:              # Ручной запуск
 
 jobs:
   merge:
@@ -12,37 +12,33 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Merge all sources and filter VLESS only
+      - name: Merge all VLESS from 14 sources
         run: |
-          > merged.txt
+          # Создаем временный файл
+          > all_vless.txt
           
           # 11 файлов из Davai
           for i in {1..11}; do
-            curl -s "https://raw.githubusercontent.com/Cepreu54/Davai/main/clean${i}.txt" >> merged.txt
+            curl -s "https://raw.githubusercontent.com/Cepreu54/Hyh/refs/heads/main/working/clean${i}.txt" >> all_vless.txt || true
           done
           
           # 3 дополнительных файла
-          curl -s "https://raw.githubusercontent.com/Cepreu54/vless-clean/refs/heads/main/clean.txt" >> merged.txt
-          curl -s "https://raw.githubusercontent.com/Cepreu54/vless-clean-2/refs/heads/main/clean.txt" >> merged.txt
-          curl -s "https://raw.githubusercontent.com/Cepreu54/vless-clean-3/refs/heads/main/clean.txt" >> merged.txt
+          curl -s "https://raw.githubusercontent.com/Cepreu54/Hyh/refs/heads/main/working/vless-clean.txt" >> all_vless.txt || true
+          curl -s "https://raw.githubusercontent.com/Cepreu54/Hyh/refs/heads/main/working/vless-clean-2.txt" >> all_vless.txt || true
+          curl -s "https://raw.githubusercontent.com/Cepreu54/Hyh/refs/heads/main/working/vless-clean-3.txt" >> all_vless.txt || true
           
-          # Оставляем ТОЛЬКО vless:// строки, убираем trojan:// и ss://
-          grep '^vless://' merged.txt | sort -u > merged_clean.txt
-          
-          # Убираем пустые строки
-          sed -i '/^$/d' merged_clean.txt
+          # Оставляем только vless:// строки, убираем дубликаты и пустые строки
+          grep '^vless://' all_vless.txt | sort -u | grep -v '^$' > merged_vless.txt
           
           # Считаем количество
-          COUNT=$(wc -l < merged_clean.txt)
-          echo "✅ Всего VLESS серверов: $COUNT"
-          
-          # Перемещаем финальный файл
-          mv merged_clean.txt merged.txt
+          COUNT=$(wc -l < merged_vless.txt)
+          echo "COUNT=$COUNT" >> $GITHUB_ENV
+          echo "✅ Всего уникальных VLESS серверов: $COUNT"
 
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add merged.txt
-          git diff --staged --quiet || git commit -m "Auto-merge VLESS only $(date +'%Y-%m-%d %H:%M:%S')"
+          git add merged_vless.txt
+          git diff --staged --quiet || git commit -m "Auto-merge VLESS (всего ${{ env.COUNT }} серверов)"
           git push
