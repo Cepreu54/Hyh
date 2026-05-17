@@ -1,4 +1,4 @@
-name: Merge VLESS from all sources
+name: Merge VLESS from working folder
 
 on:
   schedule:
@@ -12,33 +12,36 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Merge all VLESS from 14 sources
+      - name: Merge all VLESS from working folder
         run: |
           # Создаем временный файл
           > all_vless.txt
           
-          # 11 файлов из Davai
-          for i in {1..11}; do
-            curl -s "https://raw.githubusercontent.com/Cepreu54/Hyh/refs/heads/main/working/clean${i}.txt" >> all_vless.txt || true
+          # Проходим по всем файлам в папке working
+          for file in working/*.txt; do
+            if [ -f "$file" ]; then
+              echo "Обрабатываю: $file"
+              # Извлекаем строки, начинающиеся с vless://
+              grep '^vless://' "$file" >> all_vless.txt || true
+            fi
           done
           
-          # 3 дополнительных файла
-          curl -s "https://raw.githubusercontent.com/Cepreu54/Hyh/refs/heads/main/working/vless-clean.txt" >> all_vless.txt || true
-          curl -s "https://raw.githubusercontent.com/Cepreu54/Hyh/refs/heads/main/working/vless-clean-2.txt" >> all_vless.txt || true
-          curl -s "https://raw.githubusercontent.com/Cepreu54/Hyh/refs/heads/main/working/vless-clean-3.txt" >> all_vless.txt || true
+          # Оставляем только уникальные vless:// строки
+          sort -u all_vless.txt | grep -v '^$' > merged_vless.txt
           
-          # Оставляем только vless:// строки, убираем дубликаты и пустые строки
-          grep '^vless://' all_vless.txt | sort -u | grep -v '^$' > merged_vless.txt
+          # Добавляем временную метку (чтобы был виден факт обновления)
+          echo "" >> merged_vless.txt
+          echo "# Last merged: $(date +'%Y-%m-%d %H:%M:%S UTC')" >> merged_vless.txt
           
-          # Считаем количество
-          COUNT=$(wc -l < merged_vless.txt)
+          # Считаем количество уникальных серверов
+          COUNT=$(grep -c '^vless://' merged_vless.txt)
           echo "COUNT=$COUNT" >> $GITHUB_ENV
-          echo "✅ Всего уникальных VLESS серверов: $COUNT"
+          echo "✅ Всего уникальных VLESS серверов в merged_vless.txt: $COUNT"
 
       - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add merged_vless.txt
-          git diff --staged --quiet || git commit -m "Auto-merge VLESS (всего ${{ env.COUNT }} серверов)"
+          git diff --staged --quiet || git commit -m "Обновление merged_vless.txt (${{ env.COUNT }} серверов) [$(date +'%Y-%m-%d %H:%M:%S')]"
           git push
