@@ -1,0 +1,2 @@
+vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@45.133.251.23:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#[OpenRay] 🇩🇪 DE-15566
+vless://66036ae7-f4b4-4dd9-b72f-88b571c6ba26@109.120.191.92:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=6f3cc9d9#🇵🇱 Poland — #471
