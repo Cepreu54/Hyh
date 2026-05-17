@@ -1,2 +1,2 @@
-# Нет рабочих серверов с пингом <= 2000 мс
-# 2026-05-18 06:44:50.696344
+vless://fd365b7e-26eb-479a-a009-e182d827de04@46.8.209.200:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=z67jBKrK0gsKfg-sz_8_CFMtKq9fAtWJPEJpHvo-OFU&security=reality&sid=7e2a9d4c5f18b0&sni=ads.x5.ru&type=tcp#🇸🇪 Sweden [*CIDR]
+# Updated: 2026-05-18 06:52:10.243739
