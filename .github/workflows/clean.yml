@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Merge all sources
+      - name: Merge all sources and filter VLESS only
         run: |
           > merged.txt
           
@@ -26,12 +26,15 @@ jobs:
           curl -s "https://raw.githubusercontent.com/Cepreu54/vless-clean-2/refs/heads/main/clean.txt" >> merged.txt
           curl -s "https://raw.githubusercontent.com/Cepreu54/vless-clean-3/refs/heads/main/clean.txt" >> merged.txt
           
-          # Убираем пустые строки и дубликаты
-          grep -v '^$' merged.txt | sort -u > merged_clean.txt
+          # Оставляем ТОЛЬКО vless:// строки, убираем trojan:// и ss://
+          grep '^vless://' merged.txt | sort -u > merged_clean.txt
+          
+          # Убираем пустые строки
+          sed -i '/^$/d' merged_clean.txt
           
           # Считаем количество
           COUNT=$(wc -l < merged_clean.txt)
-          echo "Всего серверов в объединённой подписке: $COUNT"
+          echo "✅ Всего VLESS серверов: $COUNT"
           
           # Перемещаем финальный файл
           mv merged_clean.txt merged.txt
@@ -41,5 +44,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add merged.txt
-          git diff --staged --quiet || git commit -m "Auto-merge $(date +'%Y-%m-%d %H:%M:%S')"
+          git diff --staged --quiet || git commit -m "Auto-merge VLESS only $(date +'%Y-%m-%d %H:%M:%S')"
           git push
