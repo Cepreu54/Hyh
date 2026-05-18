@@ -1,3 +1,4 @@
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@nl1.skysafe.online:8443?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=f1kpVFY3EHaR41TCKGqSWzZq7HG-WpyE2g_tlMm2US0&security=reality&sid=844dfa3681e4c4&sni=nl1.skysafe.online&spx=/&type=tcp#[OpenRay] 🇳🇱 NL-7257
-vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@95.85.235.240:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#[OpenRay] 🇩🇪 DE-15788
-# Updated: 2026-05-18 06:56:44.692417
+vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@45.133.251.23:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#[OpenRay] 🇩🇪 DE-15566
+vless://8b4b948f-b1a6-44b2-9c21-74ce5ef7d2e2@158.160.33.12:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&spx=/#🇩🇪 Germany — #99
+vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@185.167.98.43:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&sni=sun1-13.userapi.com#[OpenRay] 🇳🇱 NL-7324
+# Updated: 2026-05-18 07:04:07.374089
