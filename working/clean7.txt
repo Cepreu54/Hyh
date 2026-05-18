@@ -1,2 +1,2 @@
 vless://5fb4beab-89b7-48b4-9517-172a4221cbad@de4-mwscloud.onnstreaming.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=0L2az4daQfRLsPZPMnDuU6VLA5yJWL3qIcOTfF3Sn2g&sid=70030fabf700a5d7&sni=de4-mwscloud.onnstreaming.ru#[OpenRay] 🇩🇪 DE-15794
-# Updated: 2026-05-18 08:20:25.604106
+# Updated: 2026-05-18 08:27:45.142652
