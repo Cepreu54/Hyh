@@ -1,4 +1,4 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allow_insecure=0&security=tls&sni=ams1.fromblancwithlove.com#🇳🇱 荷兰 194
+vless://207b433a-49fd-4704-b271-4d17385132d6@gm.velajio.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=bQPboza6zV_w8hIJsaF-TE79il0ebZe4p57ddBxV034&sid=0e2345467d451262&spx=/#[OpenRay] 🇩🇪 DE-15814
+vless://5e2641c5-61fe-4f42-8ebb-e67b2c587ea7@89.124.89.49:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&sid=5d8bd36d&sni=login.vk.com#[OpenRay] 🇳🇱 NL-7336
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@84.32.209.6:443?flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&security=reality&sid=226509f017e4c36d&sni=vltch.mostserv.xyz#🇱🇹 立陶宛 224
-vless://a2b2a4fb-7b34-472b-b4c0-e206fef1edfc@login.xwhiteness.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=login.xwhiteness.site&fp=chrome&pbk=_4UuX1REaRypO-PGfiKkq6ZHd-qaMKySdsDpzie7FRk&flow=xtls-rprx-vision#🇫🇮 Finland, Helsinki | 🌐 | [IPv6] | [BL]
-# Updated: 2026-05-19 05:04:43.230172
+# Updated: 2026-05-19 05:12:20.716287
