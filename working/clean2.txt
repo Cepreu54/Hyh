@@ -1,3 +1,2 @@
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allow_insecure=0&security=tls&sni=ams1.fromblancwithlove.com#🇳🇱 荷兰 194
-vless://9d444061-93fc-4b85-bc12-5b5bdbe08048@server31.duckvpn.app:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudcdn-m9-15.cdn.yandex.net&fp=chrome&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&flow=xtls-rprx-vision#[OpenRay] 🇳🇱 NL-7325
-# Updated: 2026-05-18 18:39:52.410604
+# Updated: 2026-05-18 18:49:33.935080
