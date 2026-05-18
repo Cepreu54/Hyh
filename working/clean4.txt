@@ -1,2 +1,2 @@
-# Нет серверов
-# 2026-05-18 20:33:19.014157
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@144.31.4.74:443?security=tls&flow=xtls-rprx-vision&sni=pl74.mechvpn.online&type=tcp&fp=chrome#[OpenRay] 🇵🇱 PL-965
+# Updated: 2026-05-18 20:41:23.319045
