@@ -1,2 +1,2 @@
-# Нет серверов
-# 2026-05-18 20:55:22.067074
+vless://fd365b7e-26eb-479a-a009-e182d827de04@37.9.4.128:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&security=reality&sid=5d8e1a9c4f72b3&sni=ads.x5.ru&type=tcp#🇸🇪 Sweden [*CIDR]
+# Updated: 2026-05-18 21:03:09.982245
