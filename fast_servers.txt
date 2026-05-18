@@ -1,4 +1,0 @@
-# VLESS fast servers (ping <= 2000 ms)
-# Updated: 2026-05-19 03:32:59.648624
-# Total servers: 0
-
