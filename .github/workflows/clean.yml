@@ -2,8 +2,12 @@ name: Force update merged_vless.txt
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/30 * * * *' # 1. Рекомендуется увеличить интервал хотя бы до 30 минут
   workflow_dispatch:
+
+# 2. Даем права на запись для github-actions
+permissions:
+  contents: write
 
 jobs:
   merge:
@@ -11,30 +15,43 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true # Гарантирует использование токена для пуша
 
       - name: Create merged_vless.txt
         run: |
-          # Собираем все VLESS ссылки из папки working
-          > merged_vless.txt
-          for file in working/*.txt; do
-            grep '^vless://' "$file" 2>/dev/null >> merged_vless.txt || true
-          done
+          # 3. Собираем ссылки во временный файл, чтобы не читать комментарии из старого merged_vless.txt
+          > temp_links.txt
+          
+          # Проверяем, есть ли файлы в папке, чтобы избежать ошибки цикла
+          if compgen -G "working/*.txt" > /dev/null; then
+            for file in working/*.txt; do
+              grep '^vless://' "$file" >> temp_links.txt || true
+            done
+          fi
           
           # Убираем дубликаты
-          sort -u merged_vless.txt -o merged_vless.txt
+          sort -u temp_links.txt -o temp_links.txt
           
-          # Добавляем дату в начало
-          COUNT=$(grep -c '^vless://' merged_vless.txt)
-          echo "# Updated: $(date +'%Y-%m-%d %H:%M:%S UTC')" > temp.txt
-          echo "# Total: $COUNT servers" >> temp.txt
-          echo "" >> temp.txt
-          cat merged_vless.txt >> temp.txt
-          mv temp.txt merged_vless.txt
+          # Формируем финальный файл
+          COUNT=$(grep -c '^vless://' temp_links.txt)
+          echo "# Updated: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" > merged_vless.txt
+          echo "# Total: $COUNT servers" >> merged_vless.txt
+          echo "" >> merged_vless.txt
+          cat temp_links.txt >> merged_vless.txt
+          rm temp_links.txt
 
-      - name: Force push
+      - name: Push changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add merged_vless.txt
-          git commit -m "Force update $(date +'%H:%M:%S')" || true
-          git push --force
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 4. Проверяем, изменилось ли что-то, чтобы не плодить пустые коммиты
+          if git diff --quiet merged_vless.txt; then
+            echo "No changes detected. Skipping push."
+          else
+            git add merged_vless.txt
+            git commit -m "Update links: $(date -u +'%H:%M:%S UTC')"
+            # Используем обычный push, force-push здесь небезопасен
+            git push origin HEAD:${{ github.ref_name }}
+          fi
