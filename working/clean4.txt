@@ -1,2 +1,2 @@
-# Нет серверов
-# 2026-05-19 02:39:09.808148
+vless://a2b2a4fb-7b34-472b-b4c0-e206fef1edfc@api-maps.xwhiteness.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.xwhiteness.top&fp=chrome&pbk=JJFio7WT6anKV5WIkUNkXdzC_wzb0Ih3OWsRJ1HwKAI&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL]
+# Updated: 2026-05-19 02:46:03.670105
