@@ -1,4 +1,4 @@
-name: Merge VLESS from working folder
+name: Force update merged_vless.txt
 
 on:
   schedule:
@@ -11,34 +11,30 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Merge all VLESS from working folder
+      - name: Create merged_vless.txt
         run: |
-          # Создаем временный файл
-          > all_vless.txt
-          
-          # Проходим по всем файлам в папке working
+          # Собираем все VLESS ссылки из папки working
+          > merged_vless.txt
           for file in working/*.txt; do
-            if [ -f "$file" ]; then
-              grep '^vless://' "$file" >> all_vless.txt || true
-            fi
+            grep '^vless://' "$file" 2>/dev/null >> merged_vless.txt || true
           done
           
-          # Сортируем и убираем дубликаты
-          sort -u all_vless.txt | grep -v '^$' > merged_vless.txt
+          # Убираем дубликаты
+          sort -u merged_vless.txt -o merged_vless.txt
           
-          # Добавляем временную метку
+          # Добавляем дату в начало
           COUNT=$(grep -c '^vless://' merged_vless.txt)
-          echo "COUNT=$COUNT" >> $GITHUB_ENV
-          echo "✅ Всего уникальных VLESS серверов: $COUNT"
+          echo "# Updated: $(date +'%Y-%m-%d %H:%M:%S UTC')" > temp.txt
+          echo "# Total: $COUNT servers" >> temp.txt
+          echo "" >> temp.txt
+          cat merged_vless.txt >> temp.txt
+          mv temp.txt merged_vless.txt
 
-      - name: Commit and push
+      - name: Force push
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git pull --rebase
+          git config user.email "actions@github.com"
           git add merged_vless.txt
-          git commit -m "Auto-merge VLESS [$(date +'%Y-%m-%d %H:%M:%S')] - ${{ env.COUNT }} servers" || echo "No changes"
-          git push
+          git commit -m "Force update $(date +'%H:%M:%S')" || true
+          git push --force
