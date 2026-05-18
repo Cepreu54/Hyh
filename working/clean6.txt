@@ -1,2 +1,2 @@
 vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@64.188.76.88:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#[OpenRay] 🇫🇮 FI-2934
-# Updated: 2026-05-18 22:42:30.214576
+# Updated: 2026-05-18 22:49:57.753044
