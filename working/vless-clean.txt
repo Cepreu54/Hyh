@@ -1,3 +1,2 @@
-vless://4c3e6f01-c489-438b-a516-948cc9d4eed3@89.208.221.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=dkDy_40iCCrOTCDziuNidIgnqBFKEPK_SfPyKmPOJ2M&sid=dec215d635ae&spx=/#🇱🇹 Lithuania — #245
-vless://4c3e6f01-c489-438b-a516-948cc9d4eed3@89.208.221.163:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.ru&pbk=dkDy_40iCCrOTCDziuNidIgnqBFKEPK_SfPyKmPOJ2M&sid=ff265b47466b31&spx=/#🇱🇹 Lithuania — #244
-# Updated: 2026-05-18 23:22:06.666748
+# Нет серверов
+# 2026-05-18 23:29:24.800123
