@@ -1,11 +1,5 @@
-vless://2d281503-7a0a-0021-8934-4c94585c87b1@us.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&type=tcp&headerType=none#TCP, Пятёрочка [V.O.I.D]
-vless://2d281503-7a0a-0021-8934-4c94585c87b1@us.musicperec.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&sni=ads.x5.ru#1395
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#4Kian-8820
-vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sni=cdn.cdnjst.org&sid=a120#4Mohsen-9208
-vless://d678c5d1-c658-47da-a448-827b27c5c31a@89.19.223.92:8443?type=tcp#2625
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@us.skysafe.online:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&security=reality&sid=fb38c1c83009e1&sni=us.skysafe.online&spx=/&type=tcp#[OpenRay] 🇺🇸 US-16468
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&security=tls&type=tcp#4Mohsen-6146
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?security=reality&type=tcp&sni=download.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&sid=d1e9faa1b2c3&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&encryption=none#
 vless://30748ba4-ac51-48fb-b624-19c21ac4c31a@195.26.250.121:8443?type=tcp&security=reality&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#TCP
-vless://eff9f9c2-1e4f-4606-a76d-f515c7f115cf@103.27.157.228:443?type=tcp&headerType=none&security=reality&encryption=none&sni=metrika.yandex.ru&fp=chrome&pbk=c4ds8l2pyRIJBB4vhBc_ibgT7XNSmGl1U6Bxg2EgQVY&sid=8a7b6c5d&flow=xtls-rprx-vision#🇩🇪 Germany, Frankfurt am Main | 🌐 | [IPv6] | [BL]
+vless://26e4d8b5-ee98-4a8d-88c9-7f81b7be3379@64.188.76.251:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#TCP
+vless://d678c5d1-c658-47da-a448-827b27c5c31a@89.19.223.92:8443?type=tcp#2625
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.icloud.com&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab&type=tcp&headerType=none&path=/#[OpenRay] 🇭🇰 HK-703
+vless://66036ae7-f4b4-4dd9-b72f-88b571c6ba26@fin-node.vpnspacev.com:443?type=tcp&security=reality&fp=chrome&pbk=zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE&sid=79&sni=yandex.ru#TCP, Яндекс [V.O.I.D]
