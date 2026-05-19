@@ -1,5 +1,1 @@
-vless://a2b2a4fb-7b34-472b-b4c0-e206fef1edfc@api.xwhiteness.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api.xwhiteness.site&fp=chrome&pbk=O_9ei7ZOt11ZZGqQdW6AO2N06ikHfoRKSxW9aR5rLRo&flow=xtls-rprx-vision#[OpenRay] Dynamic-467
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&security=reality&sid=226509f017e4c36d&sni=vltch.mostserv.xyz#🇱🇹 立陶宛 36
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?encryption=none&type=raw&headerType=none&security=tls&sni=uk1.fromblancwithlove.com#
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&security=tls&type=tcp#🍬32@oneclickvpnkeys
+vless://3a1d7c1d-09c6-4c81-8e11-75dd4ab1ac07@london1.ap221.com:443?type=tcp&security=tls&flow=xtls-rprx-vision#0047
