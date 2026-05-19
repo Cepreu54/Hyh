@@ -1,2 +1,2 @@
-# Нет серверов
-# 2026-05-19 07:10:44.265583
+vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sni=www.microsoft.com&sid=60500a63ad12#[OpenRay] 🇫🇮 FI-1786
+# Updated: 2026-05-19 07:53:00.154851
