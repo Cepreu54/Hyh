@@ -1,7 +1,4 @@
 vless://41d1527e-526b-436c-a84c-d70dc91f0648@de-s3.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM&sid=7a3f9e2b1c8d4f6a&sni=de-s3.ru&spx=/#🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
-vless://d678c5d1-c658-47da-a448-827b27c5c31a@89.19.223.92:8443?type=tcp#🌐 Anycast-IP | [BL]
-vless://e346f220-4ca4-4f69-a66b-52e992b3b625@138.124.186.80:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&security=reality&sni=www.fh-aachen.de&type=tcp#>>@oneclickvpnkeys::DE
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@132.145.89.30:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=ako.pagate.top#3418
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#Join+Telegram:@Farah_VPN
 vless://d678c5d1-c658-47da-a448-827b27c5c31a@89.19.223.162:8443?type=tcp#3215
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#4Mohsen-8866
+vless://d678c5d1-c658-47da-a448-827b27c5c31a@nl-s3.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=f0ZKjq1EcKFheb5Xy6KXNwZ55cGb1LsF-YjuJq8i3gY&sid=7a3f9e2b1c8d4f6a&sni=nl-s3.ru&spx=/#2544
+vless://d678c5d1-c658-47da-a448-827b27c5c31a@89.19.223.92:8443?type=tcp#🌐 Anycast-IP | [BL]
