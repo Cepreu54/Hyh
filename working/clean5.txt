@@ -1,4 +1,1 @@
-vless://41d1527e-526b-436c-a84c-d70dc91f0648@de-s3.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=CmKaRa0TecpFSyn7OK6UTPPuWJ7ji2OwsaOBuUtSKGM&sid=7a3f9e2b1c8d4f6a&sni=de-s3.ru&spx=/#🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
-vless://d678c5d1-c658-47da-a448-827b27c5c31a@89.19.223.162:8443?type=tcp#3215
-vless://d678c5d1-c658-47da-a448-827b27c5c31a@nl-s3.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=f0ZKjq1EcKFheb5Xy6KXNwZ55cGb1LsF-YjuJq8i3gY&sid=7a3f9e2b1c8d4f6a&sni=nl-s3.ru&spx=/#2544
-vless://d678c5d1-c658-47da-a448-827b27c5c31a@89.19.223.92:8443?type=tcp#🌐 Anycast-IP | [BL]
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa.spectrumproxy.shop:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=XtQ3m_8a_LWCiVVEKu7cZxvJCdKnjShteUAtZ3EOlko&sid=a3a7c2d9f1a4&sni=usa.spectrumproxy.shop&spx=/#0760
