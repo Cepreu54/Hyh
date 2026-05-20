@@ -1,10 +1,6 @@
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&security=reality&sid=226509f017e4c36d&sni=vltch.mostserv.xyz#🇱🇹 立陶宛 106
-vless://a77198e2-9cf7-44c7-a97f-319f6f0e5b07@game-de.love-list-server.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=game-de.great-server-list.co.uk&fp=chrome&flow=xtls-rprx-vision&insecure=0#🇩🇪 Germany | 🌐 | [IPv6] | [BL]
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@154.204.183.68:10001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34&sid=2afe4310&sni=www.icloud.com#0150
-vless://b852270a-1283-4ea8-8a2f-5bae8e644a3e@38.55.146.153:13000?encryption=none&type=raw&headerType=none&security=none#4FreeIran-9308
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#4FreeIran-9198
-vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@104.250.239.8:17195?security=tls&flow=xtls-rprx-vision&sni=usvless.yydzx.xyz&type=tcp&host=usvless.yydzx.xyz&path=/#Join+Telegram:@Farah_VPN
+vless://a77198e2-9cf7-44c7-a97f-319f6f0e5b07@game-de.love-list-server.com:443?type=tcp&headerType=none&security=tls&encryption=none&sni=game-de.great-server-list.co.uk&fp=chrome&flow=xtls-rprx-vision&insecure=0#🇩🇪 Germany | 🌐 | [IPv6] | [BL]
 vless://2d281503-7a0a-0021-8934-4c94585c87b1@us.musicperec.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&type=tcp&headerType=none#[OpenRay] Dynamic-16560
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?type=tcp&security=tls&sni=jp1.fromblancwithlove.com#1101
-vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@sgvless.yydzx.xyz:16765?&security=tls&flow=xtls-rprx-vision&sni=sgvless.yydzx.xyz&type=tcp&headerType=none&host=sgvless.yydzx.xyz&path=/#[OpenRay] Dynamic-1498
-# Updated: 2026-05-20 18:13:51.581449
+vless://c9516916-9da5-41b2-817b-3a7e4c359094@84.201.175.42:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=189cfa69&spx=/#TCP, Пятёрочка [V.O.I.D]
+vless://3e34a5c3-7413-4d9d-ab8e-6247a0954902@51.250.83.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=m.vk.com&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#
+# Updated: 2026-05-20 19:03:11.314569
