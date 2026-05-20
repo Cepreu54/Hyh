@@ -1,7 +1,6 @@
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=vltch.mostserv.xyz&fp=&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d#[OpenRay] 🇱🇹 LT-96
+vless://7eb75990-443c-4205-921b-1936be9c6ccb@185.141.227.186:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=08#TCP, Пятёрочка [V.O.I.D]
 vless://30748ba4-ac51-48fb-b624-19c21ac4c31a@195.26.250.121:8443?type=tcp&security=reality&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#TCP
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🍑100@oneclickvpnkeys
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@nl1.skysafe.online:8443?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=f1kpVFY3EHaR41TCKGqSWzZq7HG-WpyE2g_tlMm2US0&security=reality&sid=844dfa3681e4c4&sni=nl1.skysafe.online&spx=/&type=tcp#[OpenRay] 🇳🇱 NL-7257
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?allow_insecure=0&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com#🇬🇧 英国 220
-vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none#
-# Updated: 2026-05-20 18:06:30.162923
+vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@us.skysafe.online:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&security=reality&sid=fb38c1c83009e1&sni=us.skysafe.online&spx=/&type=tcp#[OpenRay] 🇺🇸 US-16468
+vless://6bcc0a8a-a7cc-0001-8448-14ec5e516912@37.9.4.37:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=&fp=chrome&pbk=KdAzR0Ytx0LJhK058NvjOg0nV7-vbxxoRL7-y-eSvA0#🇩🇪 Germany | 🌐 [*CIDR]
+vless://c9516916-9da5-41b2-817b-3a7e4c359094@84.201.134.245:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1abac&spx=/#TCP, Пятёрочка [V.O.I.D]
+# Updated: 2026-05-20 18:37:14.423772
