@@ -1,12 +1,7 @@
 vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&security=reality&sid=aabbccdd&sni=apple.com&type=tcp#v2ray_dalghak
-vless://b1b24586-cccf-458d-b125-d621c3710676@pl1.astrocore.cloud:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=X2Sb6CKcI_yEV4gu9KUAmL9mcL-xpC1Ngks06NYIaxw&security=reality&sid=f129f93e&sni=pl1.astrocore.cloud&type=tcp#[openproxylist.com
-vless://6bcc0a8a-a7cc-46b7-8448-14ec5e516912@kask1.ggisopi.su:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=kask1.ggisopi.su&fp=chrome&pbk=HYKy4FK5lRc1Lv1lbJSew6xmpbg-Hp9IREnObxTf6kU#🇬🇧 United Kingdom, London | [BL]
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?security=tls&encryption=none&headerType=none&type=tcp#
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa.spectrumproxy.shop:443?type=tcp&security=reality&sni=usa.spectrumproxy.shop&flow=xtls-rprx-vision&pbk=XtQ3m_8a_LWCiVVEKu7cZxvJCdKnjShteUAtZ3EOlko&sid=2a6f8c4d1e9a#US
-vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@38.114.103.54:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#[OpenRay] 🇺🇸 US-16596
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa.spectrumproxy.shop:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=XtQ3m_8a_LWCiVVEKu7cZxvJCdKnjShteUAtZ3EOlko&sid=2a6f8c4d1e9a&sni=usa.spectrumproxy.shop&spx=/#2693
-vless://2219a1b1-9290-4ac5-94fd-6cfc1fb25280@104.250.239.8:17195?security=tls&flow=xtls-rprx-vision&sni=usvless.yydzx.xyz&type=tcp&host=usvless.yydzx.xyz&path=/#
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?security=tls&encryption=none&headerType=none&type=tcp#GB VLESS-61 | free-nodes
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sni=www.icloud.com&sid=f7223dab#4Mohsen-8828
 vless://30748ba4-ac51-48fb-b624-19c21ac4c31a@195.26.250.121:8443?type=tcp&security=reality&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com#TCP
-# Updated: 2026-05-20 12:23:56.851678
+vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@38.114.103.54:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#[OpenRay] 🇺🇸 US-16596
+vless://6bcc0a8a-a7cc-46b7-8448-14ec5e516912@kask1.ggisopi.su:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=kask1.ggisopi.su&fp=chrome&pbk=HYKy4FK5lRc1Lv1lbJSew6xmpbg-Hp9IREnObxTf6kU#🇬🇧 United Kingdom, London | [BL]
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=none#4Mohsen-10042
+# Updated: 2026-05-20 12:56:30.432107
