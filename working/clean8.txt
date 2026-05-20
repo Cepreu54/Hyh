@@ -1,11 +1,13 @@
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top&type=tcp#>>@oneclickvpnkeys::NL
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#>>@oneclickvpnkeys::IT
-vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🍑100@oneclickvpnkeys
+vless://7402e534-54dc-34cc-ac5b-c85ac6e236fd@s220.okgfwbackxyz.xyz:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=random&sni=s220.okgfwbackxyz.xyz&path=&mode=&serviceName=#1932
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?security=tls&encryption=none&headerType=none&type=tcp#v2ray_dalghak
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#
-vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&sni=apple.com&sid=aabbccdd#[
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#[openproxylist.com
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#>>@oneclickvpnkeys::IT
 vless://30f5b380-5b9e-4d42-a50c-508a2a8cb2f6@germany2.telega.now:443?type=tcp&headerType=none&security=reality&encryption=none&sni=xapi.ozon.ru&fp=chrome&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&sid=0ffcc7&flow=xtls-rprx-vision#🇩🇪 Germany [SNI-RU] xapi.ozon.ru
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&type=raw&headerType=none&security=none#[
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#🦜13@oneclickvpnkeys
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&fp=chrome&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#🍑100@oneclickvpnkeys
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.91.55.79:443?type=tcp&security=reality&pbk=NeqzZ-mb_awh3RG7kQg094X0mWfSaudtSlmodTA_1BM&fp=chrome&sni=sun6-20.userapi.com&sid=edd304d1&flow=xtls-rprx-vision#[OpenRay] 🇲🇩 MD-3
-# Updated: 2026-05-20 17:02:33.218988
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.denditop.site&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&spx=/&type=tcp&headerType=none#[OpenRay] Dynamic-1380
+vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&sni=apple.com&sid=aabbccdd#[
+# Updated: 2026-05-20 17:37:37.928588
