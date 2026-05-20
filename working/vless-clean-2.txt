@@ -1,10 +1,8 @@
-vless://3472b8fc-fc0b-4317-867a-db3dd92bede5@85.239.55.203:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Germany — #65 t.me/rjsxrd
-vless://d6855ed0-92c0-467b-b593-00da5e54f22f@85.239.55.203:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇸🇬 Singapore — #304 t.me/rjsxrd
-vless://d6855ed0-92c0-467b-b593-00da5e54f22f@85.239.55.203:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇸🇬 Singapore — #305 t.me/rjsxrd
 vless://b0033540-41ea-41f0-8746-361207cb8358@85.239.55.203:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇸🇬 Singapore — #302 t.me/rjsxrd
-vless://30748ba4-ac51-48fb-b624-19c21ac4c31a@195.26.250.121:8443?type=tcp&security=reality&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com# t.me/rjsxrd
-vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vruaz.mostserv.xyz:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&sid=226509f017e4c36d&sni=vruaz.mostserv.xyz#[399ms
+vless://3472b8fc-fc0b-4317-867a-db3dd92bede5@85.239.55.203:8454?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇩🇪 Germany — #65 t.me/rjsxrd
 vless://f42c93f3-755b-4e12-a856-e7c6878b34ab@62.152.56.156:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=4fkc7NTbrWKSBTpZHGE2jjQXVtrao1tQQ989zilyPUw#🇳🇱 [БС-VL] Нидерланды #17834 | РосТуннель t.me/rjsxrd
+vless://d6855ed0-92c0-467b-b593-00da5e54f22f@85.239.55.203:8446?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇸🇬 Singapore — #305 t.me/rjsxrd
+vless://30748ba4-ac51-48fb-b624-19c21ac4c31a@195.26.250.121:8443?type=tcp&security=reality&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&sni=eh.vk.com# t.me/rjsxrd
 vless://6784aee2-0dfe-474f-8446-480259ff9918@wl4.safepass.click:443?type=xhttp&security=reality&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c&sni=stats.vk-portal.net&mode=auto&extra={# t.me/rjsxrd
 vless://e5840ec5-8c0b-4255-838f-9e191494bce0@46.8.209.227:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=yandex.ru&pbk=djV0ofrWaRYqyKIgjuXuDGZt3QmkfDwyBk-ro_nv1zs&sid=b175ae75e2a15bf0&spx=/#🏳️
-# Updated: 2026-05-20 07:45:17.295171
+# Updated: 2026-05-20 08:23:31.417717
