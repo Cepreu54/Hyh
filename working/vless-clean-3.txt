@@ -1,9 +1,5 @@
-vless://6784aee2-0dfe-474f-8446-480259ff9918@91.206.15.52:443?encryption=none&type=xhttp&security=reality&mode=auto&extra=null&fp=chrome&sni=stats.vk-portal.net&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c#🇳🇱 The Netherlands [*CIDR]
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@84.201.180.242:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdp.x5.ru&pbk=DK98HQGIBGOFbAqKggMXduwYNjlKfOBiARKfO8wEeXk&sid=0fb689ad101948ba#🌐 Anycast-IP | [IPv6] [*CIDR] YA
+vless://18b9b93c-2419-4cbf-bd4d-8aebd22c8a45@185.22.234.125:9001?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=CDEO-velfo52lx4LFKoU-2UWqzF4RrH-SJoY-zudtUs&sid=7cd6133a0e#🇫🇷 France [*CIDR]
 vless://d78c12c4-6927-40b8-8550-ed9be00334da@usacxc.chickenkiller.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=usacxc.chickenkiller.com&fp=chrome&pbk=ThmCg7PnzUKsjDoTtqddU2G1tPC8oRTeeN_Z46wJHAg&sid=bdc9b685646303f6#🇺🇸 United States [*CIDR]
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.209.11:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=cdp.x5.ru&pbk=DK98HQGIBGOFbAqKggMXduwYNjlKfOBiARKfO8wEeXk&sid=0fb689ad101948ba#🌐 Anycast-IP | [IPv6] [*CIDR] VK
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@84.201.145.140:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=2x8y-JiSEl8JJoiUm-V9aI0oY0vlgkYQxBeGriObc04&sid=0492027673ee8c08#🌐 Anycast-IP | [IPv6] [*CIDR] YA
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.209.53:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=2x8y-JiSEl8JJoiUm-V9aI0oY0vlgkYQxBeGriObc04&sid=0492027673ee8c08#🌐 Anycast-IP | [IPv6] [*CIDR] VK
+vless://d310e139-65d9-4910-8422-75fdc47eeda3@bs8.trustnet.sbs:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=4fkc7NTbrWKSBTpZHGE2jjQXVtrao1tQQ989zilyPUw#🇳🇱 The Netherlands [*CIDR]
 vless://c8f6db15-d3e0-4bdc-89d9-8919656962ff@84.201.140.177:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=Mg3Mb8ytziQ0Er2DUGxFCxXz8OwxSyiVncjFmMNzdSo&sid=f9b6823bf4858816&spx=/#🇳🇱 The Netherlands | 🌐 [*CIDR] YA
-vless://fd0eb4ef-7403-4aa0-b559-6f0c19cbb428@195.133.198.233:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=try.astrafic.ru&pbk=27Yic1_fgaubwVzyNTVjsHBkJkqt1jMvV8oC13ZYZTI#🇩🇪 Germany | 🌐 | [IPv6] [*CIDR]
-# Updated: 2026-05-21 11:21:34.829875
+# Updated: 2026-05-21 12:09:10.269519
