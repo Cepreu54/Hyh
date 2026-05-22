@@ -1,2 +1,2 @@
-vless://c8f6db15-d3e0-4bdc-89d9-8919656962ff@84.201.140.177:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=Mg3Mb8ytziQ0Er2DUGxFCxXz8OwxSyiVncjFmMNzdSo&sid=f9b6823bf4858816#🇳🇱 The Netherlands | 🌐 [*CIDR] YA
-# Updated: 2026-05-22 21:05:44.554621
+vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@81.163.22.31:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=mg0_vScapBay--mGHtgepcDY6pT8DbnZUXJr8ka8CXc#🇵🇱 Poland [*CIDR]
+# Updated: 2026-05-22 21:44:01.264995
