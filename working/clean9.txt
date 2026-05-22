@@ -1,12 +1,5 @@
-vless://be0e7d89-9c35-4950-a460-d3bf5aae5f91@217.16.30.246:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=rbc.ru&pbk=29J6_MGnPXmNFGewSymns-TShTvkd3rGTgUGMKWjGTk&sid=1e13c1eb4bab16db#TCP, РБК [V.O.I.D]
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?security=reality&sni=sw1tzerl4nd.gxcore.net&fp=chrome&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&sid=a1ab5a56bc42&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp#Join+Telegram:@Farah_VPN
+vless://4c3fe585-ac09-41df-b284-888818888188@79.141.171.133:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0rtpNciTfV9TsoEc7Y8lS5LzBUzLppMnRY8bQC_bH3M&sid=aabbccdd&sni=apple.com&alpn=h2#
+vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@38.114.103.54:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#[OpenRay] 🇺🇸 US-16596
+vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&security=tls&type=tcp#Join+Telegram:@Farah_VPN
 vless://b1b24586-cccf-458d-b125-d621c3710676@pl1.astrocore.cloud:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=X2Sb6CKcI_yEV4gu9KUAmL9mcL-xpC1Ngks06NYIaxw&security=reality&sid=f129f93e&sni=pl1.astrocore.cloud&type=tcp#🍥81@oneclickvpnkeys
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@sw1tzerl4nd.gxcore.net:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&security=reality&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net&type=tcp#@Vip_Security
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@193.233.88.229:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=lk.x5.ru&pbk=gs8bT5NMOtrvvHxmCi_siXbVY6WhQcBV4tEgFk4ohgA&sid=46ceaa0ac75f90dc#
-vless://43274ef7-e126-4c8f-8989-5cdfecd33e20@tr.skytunnel.pw:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs&sid=#🇹🇷 Turkey [SNI-RU] ads.x5.ru
-vless://6784aee2-0dfe-474f-8446-480259ff9918@yt5.safepass.click:443?type=xhttp&security=reality&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c&sni=stats.vk-portal.net&mode=auto&extra={#XHTTP
-vless://49f3fec2-1a21-481e-ae65-7c32ae262582@serv-ne-3.whit3.net:10444?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=praGYag8YPbz_rcd_Pa6Fqsi_IiQtO3e1AosYBcu6h4&sni=serv-ne-3.whit3.net&sid=378086fbdb7c61cd#4Kian-6965
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@84.201.180.231:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api.food.ru&pbk=2QzGkIVICY5JKW0rHJpB_KEBnSwvYOMbYNcTI930jg0&sid=cd291984fd05f458#TCP
-vless://b27ab9aa-a525-4deb-a1fd-6d16c9614612@38.114.103.54:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@185.103.100.102:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=DK98HQGIBGOFbAqKggMXduwYNjlKfOBiARKfO8wEeXk&sid=0fb689ad101948ba&sni=cdp.x5.ru#[OpenRay] 🇩🇪 DE-15867
-# Updated: 2026-05-22 09:43:16.321397
+# Updated: 2026-05-22 16:19:57.808816
