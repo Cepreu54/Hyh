@@ -1,3 +1,2 @@
-vless://be0e7d89-9c35-4950-a460-d3bf5aae5f91@fl.locklance.lol:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl.locklance.lol&fp=chrome&pbk=_ftr7AiRUt0qvp9EiM4k83zzApIm430inagF_R2--CE&sid=a74c10074f1816d5&flow=xtls-rprx-vision#🌐 Anycast-IP | 🇫🇮 🇬🇧 [*CIDR]
-vless://c8f6db15-d3e0-4bdc-89d9-8919656962ff@84.201.140.177:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=Mg3Mb8ytziQ0Er2DUGxFCxXz8OwxSyiVncjFmMNzdSo&sid=f9b6823bf4858816#🇳🇱 The Netherlands | 🌐 [*CIDR] YA
-# Updated: 2026-05-23 01:01:13.088019
+# Нет серверов
+# 2026-05-23 01:40:30.156469
