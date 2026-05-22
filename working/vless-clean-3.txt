@@ -1,4 +1,4 @@
-vless://06c89951-0e91-4ed6-b4be-2237a7559979@51.250.4.2:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#🇳🇱 The Netherlands [*CIDR] YA
-vless://ef65b130-2bf4-4f5a-8ec3-11dbee6937ed@51.250.4.2:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#🇳🇱 The Netherlands [*CIDR] YA
-vless://cbc27e56-38a1-4b0d-bce3-f9e7dcb807a4@89.208.208.240:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=lk.x5.ru&pbk=gs8bT5NMOtrvvHxmCi_siXbVY6WhQcBV4tEgFk4ohgA&sid=46ceaa0ac75f90dc#🌐 Anycast-IP | 🇩🇪 🇬🇧 🇸🇪 [*CIDR] VK
-# Updated: 2026-05-23 02:27:35.155301
+vless://6784aee2-0dfe-474f-8446-480259ff9918@yt5.safepass.click:443?type=xhttp&security=reality&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c&sni=stats.vk-portal.net&mode=auto&extra={#🇳🇱 The Netherlands [*CIDR]
+vless://b679aa94-589d-4690-bd7f-9848c46ac0d7@81.163.22.31:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=mg0_vScapBay--mGHtgepcDY6pT8DbnZUXJr8ka8CXc#🌐 Anycast-IP | 🇵🇱 🇸🇪 [*CIDR]
+vless://dcc931db-74c0-4bc7-a804-db764310273a@158.160.187.237:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7#🇩🇪 Germany [*CIDR] YA
+# Updated: 2026-05-23 03:09:42.094427
