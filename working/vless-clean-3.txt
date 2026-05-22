@@ -1,2 +1,2 @@
-vless://6784aee2-0dfe-474f-8446-480259ff9918@yt5.safepass.click:443?type=xhttp&security=reality&fp=chrome&pbk=ELp9PUvVnkoFJYiscWrbnPXRnsYdELSCbIz9wNmMRRw&sid=965af8960474c29c&sni=stats.vk-portal.net&mode=auto&extra={#🇳🇱 The Netherlands [*CIDR]
-# Updated: 2026-05-22 20:42:44.147843
+vless://c8f6db15-d3e0-4bdc-89d9-8919656962ff@84.201.140.177:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=Mg3Mb8ytziQ0Er2DUGxFCxXz8OwxSyiVncjFmMNzdSo&sid=f9b6823bf4858816#🇳🇱 The Netherlands | 🌐 [*CIDR] YA
+# Updated: 2026-05-22 21:05:44.554621
