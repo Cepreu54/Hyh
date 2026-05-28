@@ -1,7 +1,5 @@
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?security=tls&type=tcp&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇪🇪 Estonia | 🌐 [*CIDR]
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=qq&sni=sub.sbrf-cdn342.ru#🇩🇪 Germany [*CIDR]
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#🇩🇪 Germany [*CIDR]
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=qq&sni=sub.sbrf-cdn342.ru#🇩🇪 Germany [*CIDR]
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?security=tls&type=tcp&sni=sub.sbrf-cdn342.ru&fp=chrome&flow=xtls-rprx-vision&encryption=none#🇪🇪 Estonia | 🌐 [*CIDR]
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#🇪🇪 Estonia | 🌐 [*CIDR]
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@185.215.184.97:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#🇪🇪 Estonia | 🌐 [*CIDR]
-vless://97836028-9cb2-4a7a-8511-8a59d1e57e15@37.139.43.57:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eh.vk.com&fp=chrome&pbk=RiSs_VVhep71TZU8buuMedhJ9wenvWJ2sSp8HfaYnGw&flow=xtls-rprx-vision#🇺🇸 United States [*CIDR] VK
-# Updated: 2026-05-28 09:30:45.566295
+# Updated: 2026-05-28 10:31:44.177126
