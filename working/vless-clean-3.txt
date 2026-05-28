@@ -1,2 +1,2 @@
-# Нет серверов
-# 2026-05-28 23:41:51.203048
+vless://bdddc783-a4f3-47f7-8850-21416d0a31f1@eager-hill.scan-cdn.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun6-21.userapi.com&fp=chrome&pbk=Zr37gJWVIvP9JsYN3cqySyvpo2SoOcZClA5e-qHsPCE&sid=cfb415a429e83b04&flow=xtls-rprx-vision#🇫🇮 Finland [*CIDR]
+# Updated: 2026-05-29 00:39:28.327185
