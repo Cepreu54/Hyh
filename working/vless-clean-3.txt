@@ -1,2 +1,2 @@
 vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.83.129.113:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&fp=chrome&allowInsecure=1#🇩🇪 Germany | 🌐 [*CIDR]
-# Updated: 2026-05-29 21:20:10.765904
+# Updated: 2026-05-29 22:25:12.694771
