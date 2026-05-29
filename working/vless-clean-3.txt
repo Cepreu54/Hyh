@@ -1,2 +1,2 @@
-vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#🇱🇻 Latvia [*CIDR]
-# Updated: 2026-05-29 20:14:51.037493
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.83.129.113:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&fp=chrome&allowInsecure=1#🇩🇪 Germany | 🌐 [*CIDR]
+# Updated: 2026-05-29 21:20:10.765904
