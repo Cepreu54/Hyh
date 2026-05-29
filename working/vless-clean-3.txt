@@ -1,2 +1,2 @@
-# Нет серверов
-# 2026-05-30 02:42:03.507425
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=qq&sni=sub.sbrf-cdn342.ru#🇩🇪 Germany | 🌐 [*CIDR]
+# Updated: 2026-05-30 03:47:24.234717
