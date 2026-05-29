@@ -1,45 +1,23 @@
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@nl-3.bexum.fun:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=nl-3.bexum.fun&flow=xtls-rprx-vision#🇳🇱 The Netherlands, Amsterdam | [BL] t.me/rjsxrd
-vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@191.44.112.22:443?flow=xtls-rprx-vision&fp=chrome&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&security=reality&sid=a9ff&sni=www.yandex.ru&type=tcp#🇩🇪124Mb
-vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@191.44.112.22:443?flow=xtls-rprx-vision&fp=chrome&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&security=reality&sid=a9ff&sni=www.yandex.ru&type=tcp#[359ms
-vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@191.44.112.22:443?flow=xtls-rprx-vision&fp=chrome&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&security=reality&sid=a9ff&sni=www.yandex.ru&type=tcp#[323ms
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@nl-3.bexum.fun:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=nl-3.bexum.fun&flow=xtls-rprx-vision#[314ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#[362ms
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@72.56.69.12:443?type=tcp&security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&fp=randomized&sni=nl-2.bexum.fun&sid=68abb912e89c95bd&flow=xtls-rprx-vision#🇳🇱 The Netherlands | 🌐 [*CIDR] t.me/rjsxrd
-vless://ab7ededa-a2cd-4381-8ea6-d39d2f91dcf6@191.44.112.22:443?flow=xtls-rprx-vision&fp=chrome&pbk=rUCPHLqnPkePldNW05cfPZ8FM8VSmnB6e5dkGNHk_0M&security=reality&sid=a9ff&sni=www.yandex.ru&type=tcp#[314ms
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443?type=tcp&security=tls&sni=proxy.wastech.org&descriptions=СвободуИнтернету183#[1249ms
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪 [VL] Германия #2745 | РосТуннель t.me/rjsxrd
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@72.56.69.12:443?type=tcp&security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&fp=randomized&sni=nl-2.bexum.fun&sid=68abb912e89c95bd&flow=xtls-rprx-vision#🇳🇱 [БС-VL] Нидерланды #14570 | РосТуннель t.me/rjsxrd
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#[368ms
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@bero-3.bexum.fun:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=bero-3.bexum.fun&flow=xtls-rprx-vision#[326ms
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#[244ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#[303ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇪🇺 📶LTE|@xex_vpn #398 t.me/rjsxrd
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@nl-3.bexum.fun:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=nl-3.bexum.fun&flow=xtls-rprx-vision#[292ms
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@nl-3.bexum.fun:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=nl-3.bexum.fun&flow=xtls-rprx-vision#[336ms
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443?security=tls&sni=proxy.wastech.org&type=tcp&nonce=cavs_bhb#[179ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#[386ms
-vless://9beef3b2-5749-4529-a91a-29af1c043d6b@nl2.panel.cleanersaz.help:4443?encryption=none&security=tls&sni=nl2.panel.cleanersaz.help&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#[348ms
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@bero-3.bexum.fun:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=bero-3.bexum.fun&flow=xtls-rprx-vision#[281ms
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443?fp=chrome&security=tls&sni=proxy.wastech.org&type=raw#[1180ms
 vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪 Germany | 🌐 [*CIDR] t.me/rjsxrd
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#🇪🇺 📶LTE|@xex_vpn #28 t.me/rjsxrd
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#[357ms
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.83.129.113:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#[265ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@72.56.69.12:443?type=tcp&security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&fp=randomized&sni=nl-2.bexum.fun&sid=68abb912e89c95bd&flow=xtls-rprx-vision#🇳🇱 The Netherlands | 🌐 [*CIDR] t.me/rjsxrd
 vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443?security=tls&sni=proxy.wastech.org&type=tcp#[176ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=qq&sni=sub.sbrf-cdn342.ru#[232ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🇪🇺 📶LTE|@xex_vpn #15 t.me/rjsxrd
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#[351ms
-vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@proxy.wastech.org:443?encryption=none&type=raw&headerType=none&security=tls&sni=proxy.wastech.org#[1386ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@bero-2.bexum.fun:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=bero-2.bexum.fun&flow=xtls-rprx-vision#[416ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#[244ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪 [VL] Германия #2745 | РосТуннель t.me/rjsxrd
 vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#[240ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#AetrisVPN
-vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#[230ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#🇩🇪
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@72.56.69.12:443?type=tcp&security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&fp=randomized&sni=nl-2.bexum.fun&sid=68abb912e89c95bd&flow=xtls-rprx-vision#🇳🇱 [БС-VL] Нидерланды #14570 | РосТуннель t.me/rjsxrd
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443?fp=chrome&security=tls&sni=proxy.wastech.org&type=raw#[1180ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@nl-3.bexum.fun:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=nl-3.bexum.fun&flow=xtls-rprx-vision#🇳🇱 The Netherlands, Amsterdam | [BL] t.me/rjsxrd
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@nl-3.bexum.fun:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=nl-3.bexum.fun&flow=xtls-rprx-vision#[314ms
+vless://7131f38f-9a4a-4e38-ae1d-aa9e132265ea@104.168.30.161:443?security=tls&sni=proxy.wastech.org&type=tcp&nonce=cavs_bhb#[179ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@nl-3.bexum.fun:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=nl-3.bexum.fun&flow=xtls-rprx-vision#[336ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#[219ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@bero-3.bexum.fun:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=bero-3.bexum.fun&flow=xtls-rprx-vision#🇩🇪 Germany | 🌐 | [BL] t.me/rjsxrd
 vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@nl-3.bexum.fun:443?type=tcp&security=tls&encryption=none&fp=chrome&sni=nl-3.bexum.fun&flow=xtls-rprx-vision#🇳🇱 [VL] Нидерланды #6168 | РосТуннель t.me/rjsxrd
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=random&headertype=&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#[546ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#[357ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#[349ms
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@de.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=sub.sbrf-cdn342.ru#[257ms
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&fp=random&flow=xtls-rprx-vision&insecure=0#🇦🇪  United Arab Emirates  [01]  MIFA t.me/rjsxrd
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?security=tls&encryption=none&insecure=0&headerType=none&fp=random&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#[1640ms
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=random&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇳🇱 The Netherlands, Amsterdam | [BL] t.me/rjsxrd
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@uae.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&fp=random&headertype=none&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#AetrisVPN
-# Updated: 2026-05-29 21:19:58.279405
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@bero-2.bexum.fun:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=bero-2.bexum.fun&flow=xtls-rprx-vision#[351ms
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&security=tls&encryption=none&fp=chrome&sni=berocd.herumhas.shop&flow=xtls-rprx-vision#0009 | 🇩🇪 Германия | WL | @freeinternet_byMygalaru t.me/rjsxrd
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@est-def.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#🇪🇪 Estonia | 🌐 [*CIDR] t.me/rjsxrd
+vless://e7902151-e2e1-4d29-a84b-86f0d5d91b65@berocd.herumhas.shop:9443?type=tcp&headerType=none&security=tls&encryption=none&sni=berocd.herumhas.shop&fp=chrome&flow=xtls-rprx-vision&insecure=0#🇨🇦  Canada  [02]  MIFA t.me/rjsxrd
+# Updated: 2026-05-29 22:25:00.285912
