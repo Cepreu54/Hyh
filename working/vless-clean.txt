@@ -1,3 +1,2 @@
-vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@84.201.139.139:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=ykN9_6T1D4_UVCtmJZIwalXglnkXQETnAWUdI4CxMQg#🇳🇱 The Netherlands — #237
-vless://cc1c6c8a-91ee-4ed6-9d42-d63510bb1190@83.229.14.131:58888?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=5rarCwWIE6vDLCyip5C66PYDsm7ETZ9V4LQR34dfuGA&sid=6ba85179e30d4fc2#🇱🇻 Latvia — #230
-# Updated: 2026-05-29 23:29:05.514423
+vless://eb3fe4a6-831c-5153-9493-5d97b28276f7@51.250.106.197:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=gLwECcibrJ-wErHzfYbPzMDVu6960VNuXUhjOQ3rUQk#🇳🇱 The Netherlands — #60
+# Updated: 2026-05-30 00:32:59.690397
