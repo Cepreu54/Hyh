@@ -1,4 +1,2 @@
-vless://a5c689ce-ef93-0064-8b74-3dbe2287d71b@51.250.35.185:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&spx=/#🇩🇪 Germany — #160
-vless://a5c689ce-ef93-0064-8b74-3dbe2287d71b@51.250.35.185:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇩🇪 Germany — #72
-vless://a5c689ce-ef93-00c8-8b74-3dbe2287d71b@46.243.142.239:8443?encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇵🇱 Poland — #471
-# Updated: 2026-05-29 10:55:59.546236
+# Нет серверов
+# 2026-05-29 11:54:01.489136
