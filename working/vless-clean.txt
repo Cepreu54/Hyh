@@ -1,2 +1,6 @@
+vless://e737e2e7-04bc-477f-8211-dc0b1354168f@84.201.179.200:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs#🇩🇪 Germany — #55
+vless://a5c689ce-ef93-00c8-8b74-3dbe2287d71b@62.76.233.254:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇵🇱 Poland — #439
 vless://a5c689ce-ef93-01f4-8b74-3dbe2287d71b@45.139.26.91:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=ads.x5.ru&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇸🇪 Sweden — #455
-# Updated: 2026-05-29 14:53:54.940810
+vless://e737e2e7-04bc-477f-8211-dc0b1354168f@84.201.179.200:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=AYWvVCObGJ_5TnNMGj4z_UDSDzMJ3IcoRgIBCAeUWFs#🇩🇪 Germany — #56
+vless://a5c689ce-ef93-00c8-8b74-3dbe2287d71b@46.243.142.239:8443?encryption=none&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🇵🇱 Poland — #416
+# Updated: 2026-05-29 15:57:54.157746
