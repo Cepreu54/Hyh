@@ -1,3 +1,2 @@
-vless://7d14da12-04a5-43b8-a375-f59147dcafde@91.240.86.187:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi1.foxnezia.dev&fp=firefox&pbk=ncdecxwXV-fRjsM7uJ9yZ6OR8qHJ31rM9iF9axVzLwg&sid=4fd3840415403f31#🌐 Anycast-IP | 🇩🇪 🇫🇮 [*CIDR]
-vless://7d14da12-04a5-43b8-a375-f59147dcafde@91.240.86.217:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi1.foxnezia.dev&pbk=ncdecxwXV-fRjsM7uJ9yZ6OR8qHJ31rM9iF9axVzLwg&sid=4fd3840415403f31&fp=firefox#🌐 Anycast-IP | 🇩🇪 🇫🇮 [*CIDR]
-# Updated: 2026-05-30 21:57:32.309310
+# Нет серверов
+# 2026-05-30 23:18:06.141115
